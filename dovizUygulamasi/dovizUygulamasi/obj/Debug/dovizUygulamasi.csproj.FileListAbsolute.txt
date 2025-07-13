@@ -1,0 +1,11 @@
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\bin\Debug\dovizUygulamasi.exe.config
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\bin\Debug\dovizUygulamasi.exe
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\bin\Debug\dovizUygulamasi.pdb
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.Form1.resources
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.exe
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.pdb
+C:\Users\yurto\Documents\GitHub\dovizOfisUygulamasi\dovizUygulamasi\dovizUygulamasi\obj\Debug\dovizUygulamasi.exe.config
