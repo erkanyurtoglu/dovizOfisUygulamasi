@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dovizUygulamasi", "dovizUygulamasi\dovizUygulamasi.csproj", "{6E51FF44-D088-443C-BBE7-B5B96A99A903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E51FF44-D088-443C-BBE7-B5B96A99A903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E51FF44-D088-443C-BBE7-B5B96A99A903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E51FF44-D088-443C-BBE7-B5B96A99A903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E51FF44-D088-443C-BBE7-B5B96A99A903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B080A8-37E1-4FB1-A1E2-F97DE3AC7D84}
+	EndGlobalSection
+EndGlobal
